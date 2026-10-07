@@ -1,0 +1,20 @@
+# Archivos de compilación de Java
+*.class
+*.jar
+*.war
+
+# Carpetas de compilación
+build/
+dist/
+target/
+
+# Configuraciones de IDEs (NetBeans, Eclipse, VSCode)
+nbproject/private/
+.nb-gradle/
+.vscode/
+.idea/
+
+# Sistema operativo Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
